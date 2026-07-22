@@ -1,0 +1,6 @@
+com/tipsi/tipsi_api/config/SecurityConfig.class
+com/tipsi/tipsi_api/repository/UserRepository.class
+com/tipsi/tipsi_api/entity/UserType.class
+com/tipsi/tipsi_api/entity/User$UserBuilder.class
+com/tipsi/tipsi_api/entity/User.class
+com/tipsi/tipsi_api/TipsiApiApplication.class
